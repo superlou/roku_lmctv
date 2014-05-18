@@ -152,7 +152,7 @@ pkg: install
 
 remove:
 	@echo "Removing $(APPNAME) from host $(ROKU_DEV_TARGET)"
-	@if [ "$(HTTPSTATUS)" == " 401" ]; \
+	@if [ "$(HTTPSTATUS)" = " 401" ]; \
 	then \
 		curl --user $(USERPASS) --digest -s -S -F "mysubmit=Delete" -F "archive=" -F "passwd=" http://$(ROKU_DEV_TARGET)/plugin_install | grep "<font color" | sed "s/<font color=\"red\">//" | sed "s[</font>[[" ; \
 	else \

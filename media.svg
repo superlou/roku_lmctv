@@ -1,0 +1,569 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3345"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   width="143"
+   height="59"
+   sodipodi:docname="media.svg">
+  <metadata
+     id="metadata3351">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs3349">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient3925">
+      <stop
+         style="stop-color:#536eb3;stop-opacity:1;"
+         offset="0"
+         id="stop3927" />
+      <stop
+         style="stop-color:#536eb3;stop-opacity:0;"
+         offset="1"
+         id="stop3929" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3925"
+       id="linearGradient3933"
+       x1="15.428716"
+       y1="800.39941"
+       x2="15.428716"
+       y2="880.75885"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1918"
+     inkscape:window-height="1030"
+     id="namedview3347"
+     showgrid="false"
+     inkscape:zoom="2"
+     inkscape:cx="-33.068123"
+     inkscape:cy="-862.06083"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3345" />
+  <rect
+     style="fill:#ff7b7b;fill-opacity:1;stroke:none;opacity:1"
+     id="rect3355"
+     width="198"
+     height="60"
+     x="-125"
+     y="-130"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/logo_hd.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <image
+     width="176"
+     height="72.615387"
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAI8AAAA7CAYAAABCONnwAAAABHNCSVQICAgIfAhkiAAACyRJREFU eJztnXtwHVUdxz+/vffmtkkfWl5Ci8pQAf9AixaQ5wCFFpJQYJrUzuAQZUAUJClFRvDVogzja1Ia KAzysK0yQF7QemnADrYIOigOL3lYhVIQKKh9AG2TNLn784/dm25u9u6e3ZsH2P3M7OTu2d85e+7d 757fefx2I6pKQkIcrLGuQMJHl0Q8CbFJxJMQm0Q8CbFJxJMQm0Q8CbFJxJMQm0Q8CbFJxPMhpLqx K1vfmJsNMK+xa9r5V68+dKzr5EfaxEhEKoEaoF9VHxjZKu271C1cezzYDZXCAoVe4GCh/5R0f+o3 dU259YqurKrIdq76+exdY11XCBCPiGSBs4EFwLlAFfATIBHPMDJ/UW5qPs9FAg3AkZ5DOwBEpEod DzFLkFm79+y5ta4p16HIys6Wmg2qjNn60hDxiMiJOF/ky8DkUa/RPsDp129IT9m+q1pULwXOEUj5 mI0DUOem9TIBaBC0YV5j7tV5TdyFlVnRsXTOlpGudzFpABGZBnwVRzTTA+yTVdQyuOCqBz9t5VOX 7ifyNeDgEPMsuC1P6cXrwwVuxO77UX1jbi2W3iFv93S1ttbnh7PepSi0PN8GmkbjhPsyKTu9BKHB 0FyqG7uyVeLbKhWTVuFAVH5mH5TdDvwxfi3NKYhHDO2Tlqc8MihPizBV4aAw4wm9mXH5cT29JhfH sq2vt95c/bdhqKMxhaG6qXgSyqB9We2F7S21X1RoN7HvHb97HCp7jGwr+zeXVbkYJC3PGKCq74mE /+SW2OMtsXYq7MTpVKdwrpkF2DjXwwa6V/907gcjWGVfooonYRiwxOoxGWELmfFty2ruBO4c+VpF J3FbY4CqHmhiJ+j4ka5LOZTltkQkA1S4W9b9W7Cz3a1bVXd48nwBOAvYD5ji2rwObHa3p1W1u1QF RGQScCowzbNVAluBZ4GngGe0zOBsEZkOzAD2d7cp7nfsBt4B3gQeUtXo7kLCO8sAFkyKXPYoEttt icgC4F4D04dFZC5wIXA5cGyI/dsisgS4W1UH5itEZDLQCFwFfDykjGdFZImqrjao3wAiUgVcgTOr foxBlg9EZBWwXFVfLmVU15T7u/sxgyP0/U3qozbr65pyAHs8W6/C7R3Laq+fv2jNdDtv5QyK6tk6 ZcLM9YtP6w8yql/40HdtW4+0hInqCHcSzqQkKDbiNgoqy9pbau4ejQ7zicBG4DBD+0OAXwKLROQq nDmLRcBC4GOGZcwAHhSRG1T1ByYZROQc4DbgU4bnAJiII7YrRKQdaFDV3T52R/qkRaHQugMg7s3T 2jz3lbqmnABHhBWw/7ZdxwF/KnX8omt+V6WqS0TI+F7kvQpR0myA0VlVn4S5cLwcBXThuIclmAvH y/ddAZZERFIisgJYSzThFFMHPCoi+5VRRnRE7jMxs1XPCDre3dN7Kk7LGII+3t5cswnK6zCPVie7 XL+/REQOCDh+CxjP+obxJeAJESlHhJGwBSPxiBAoHrWswOMD5SArCp+jiuejOM8zCcftDUFErgW+ McznOwpY54axjDidS2teBp43MD2hurErW/JoSMvkskv6u9sKO/vKUP2s4gR3NHXjCJ1vut85RwrF qPUZV5XKn+B3YP6iR6YgzDAoo711ef3Ows6+0PIAzBCRiUVp32Rkbpp3gDlRR3qG2EAfSJ83UVJy v1Fm2991aX//aRj0f8VihXe/nBnmqHmeAn6PM9U+B2cUFqXDrsCjwB+AXcBstxwTUsBJwMMwEBl5 sWHe93BGYffjDJXPwIlA8AtdyQEXq+p/vImVFRUTevKapTdfkU9JGrGvE/Ty0DOrXE6aR7I9bD/i oL++t3jxYtvPrL25ZtO8ptxfBI4LKfF0v0RbmGVwMV9rv6n2MZbuTRitta12Va337N8gIjcC10Uo 4yZV9fZdmkWkBbjSML93xLcA89Hb91R1uWf/JRFZgzOFMM1N6wGuUdVb/Apww0YHQkfrF+a2mUxh CrzQ5o5snCjgAFvR+1AJFI/A8XMvy1Wuub129+D08P6OwKriqMXR6vP4dUp/jNPEm9ALXOuTvtQn rRTeuBhf3+/DS8DtxYmq+gZOy7cVeBE4rpRwfFGMgrVUpeRMezGWJa2E39yZbJaTvQnnXbnmEJxO fmBVxNaVQ85pWjkfjAWnqlt90rqBfxkWsVNV/UITNgN9Pul+eENuP2OY515V9Z2VdWeUTwKOVdVI cTS2EjjTO2BnaY9pma3NtW+BPh5mpzLYdWVSqfBRlvJY683nvlacHFU8cdxWUDxKr2EZvnegu35l +gN7W56gUFsvbwUdVNWNQetwJRGzliedyhuLx8G6x8CouN8zKzSH7J3bGXQ29+9IjqKCBFKWeFyM 7mJc8bid5UMM8wSKpwwMY4ytSMLsG5e/F0/fqgQzv9LYtXfiNXx+Z2dlRcY3eG00Wp7hEI/felGB qG5rIuYu911Du2iIGImnT/sNlgv24gaEhQ3bU93YpwBc0Nh1OPDJQGuR9lLPiZXT8phegJFueUzF U3Bb/8X8+47Io0dSoh9VTIaKyOt5qnpHmI2Fng6QEjvUZSnyq9LlRGOsWp5hE48b5rHNMI+pe4uK 2ffO5yOLt6Pl3CdRXgyyUeE050Ooy9rUuay6ZCd8NFbVR9ptRerzuPzbMM/UMAMRMXpk24uq2ShK JVYkAQhhrc/n5l6WqyRksRTVlUFPpO5Lbst7kU07wqcEHRSRzwKviojpRCXgxDCb2ClWLPFYqcyv Cf5tMxXj9YdAULSBqp0aMrcz6DwR6/VRdlveqf3fGuY5T0Rq/Q6IyDHAYzgdzhYRyYWEfngqombf WzVWn6u1ec42RDqDy5bvBB0WYX3HLdWvB9mM9VDd1OUECcRUPN4RThuDxRTEchE5s+CeRCQrIucD 6xl859YAz4vI7LACLdtw8s/ikvmLclOd8yLzr1x7dN3C3Lfqm3KXhGVVDXVdgdiqK8KrF43hbnlM n6kOutBGD8XhEaqqbsFZYDXhk8A64F0ReRzn7RUP4D8S+wROzPYvRKTC5zgAedMWVznazvNm3cLc jnmNuR22ZT+PcrMaBMh1ttRsAF41Os9QPujrkY4wo9Ho8wTdZabiCbIzFU9xGasM8xWYApyM+/aK AAS4Gkrf+em0+ZoVAMpkPIIRu3Sw/UAWRZHYz3u1FS+e+jHWo63hEE8ctwWwkoCA8DLZgxPE70tv hf0C5qIfgq2pl0zsVDIrMf+NBxD1X44oJmrLM1ZuazhankH9K1W1cWJ6hvstW73Ahapa8k0V7kxw 6CJmCbo7l1e/YWLYsXTOFkHXRSpdeaWtpcaobqOxqh4kHtNOa5Bd3JYHVd2IszA4ZNU/JtuAM1U1 9EUGYhY66sc/o7wNTDWae1anRTZiNFqeD2ufBwBV/TNOaMXThuWUYhNwgqo+YWLc3lJ7F0icUNWN UYytdM+DwPuG5nbKMhfb/0OfJ5bb8uK2QDNx3o622bC8Am/gPJ3xeVX9h2kmVdTqyTYocitm38EG nrSx7o5Sudbm+m6QtnBLANa33lRr5BIBRFURkZmYxbg8V3isVkQOw3lOycJxYd6/3s/PuXf30JOL zHDLCOOZgDKOxwkxlaKNov0nXZGE4v4e5+FEHE6CQaOddz3bw0BrqYAxU86/evWh6XzqbFGdbCOT xD2XwvsW+j4qW/J9fes6b7vAdFllEPMbuw6A/GF5SzWllm1r3rZSaaWffH9a++mTvFqSr+y3t91z a81203Il+WdtCXFJXuKdEJtEPAmxScSTEJtEPAmxScSTEJtEPAmxScSTEJtEPAmxScSTEJv/AcVd vx7A14znAAAAAElFTkSuQmCC "
+     id="image3353"
+     x="-114"
+     y="-136.30769" />
+  <rect
+     y="-46"
+     x="-125"
+     height="45"
+     width="149"
+     id="rect3357"
+     style="fill:#ff7b7b;fill-opacity:1;stroke:none;opacity:1"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/logo_sd43.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <image
+     y="-49"
+     x="-112.30509"
+     id="image3359"
+     xlink:href="data:image/png;base64,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 vx7A14znAAAAAElFTkSuQmCC "
+     height="51"
+     width="123.61018" />
+  <text
+     xml:space="preserve"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     x="-242"
+     y="-89"
+     id="text2985"
+     sodipodi:linespacing="125%"><tspan
+       sodipodi:role="line"
+       id="tspan2987"
+       x="-242"
+       y="-89">HD</tspan></text>
+  <text
+     sodipodi:linespacing="125%"
+     id="text2989"
+     y="-8"
+     x="-281"
+     style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+     xml:space="preserve"><tspan
+       y="-8"
+       x="-281"
+       id="tspan2991"
+       sodipodi:role="line">SD 4:3</tspan></text>
+  <rect
+     inkscape:export-ydpi="90"
+     inkscape:export-xdpi="90"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/local.png"
+     style="fill:#bfd6f5;fill-opacity:1;stroke:none"
+     id="rect2997"
+     width="304"
+     height="237"
+     x="-125"
+     y="10.194482" />
+  <g
+     id="g3780"
+     transform="translate(-1.095476,0.18014885)">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/local.png"
+       sodipodi:nodetypes="sscsssssss"
+       inkscape:connector-curvature="0"
+       id="path4037"
+       d="m 28.095476,28.289746 c -32.1889394,0 -58.284778,25.694438 -58.284778,57.330264 0,31.63585 50.166102,63.55973 56.48062,110.01538 7.184563,-46.28777 60.088936,-78.37953 60.088936,-110.01538 0,-31.635826 -26.095813,-57.330264 -58.284778,-57.330264 z m -0.55813,23.103241 c 17.788635,0 32.212106,14.177032 32.212106,31.659997 0,17.482966 -14.423471,31.659996 -32.212106,31.659996 -17.7886354,0 -32.2121074,-14.17703 -32.2121074,-31.659996 0,-17.482965 14.423472,-31.659997 32.2121074,-31.659997 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/local.png"
+       inkscape:connector-curvature="0"
+       id="path4042"
+       d="m 75.475162,156.09278 -95.619975,68.64614"
+       style="fill:none;stroke:#444444;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/local.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4044"
+       d="M 4.6622606,170.17405 51.119135,221.21861"
+       style="fill:none;stroke:#444444;stroke-width:8;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/local.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4046"
+       d="m 86.074564,148.61212 -26.385734,6.38057 15.109787,15.40138 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+  </g>
+  <rect
+     y="261.9245"
+     x="-125"
+     height="237"
+     width="304"
+     id="rect3805"
+     style="fill:#bfd6f5;fill-opacity:1;stroke:none"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/municipal.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g3876"
+     transform="translate(6.140349,7.9907595)">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path4051"
+       d="m 64.226066,324.24376 0,-16.10583 23.82776,0 -67.19418,-34.89595 -67.19417,34.89595 23.8277,0 0,16.10583 43.36647,0 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       ry="0"
+       y="333.68228"
+       x="-22.588295"
+       height="82.861572"
+       width="12.907247"
+       id="rect4056"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       inkscape:connector-curvature="0"
+       id="rect4062"
+       d="m -23.173334,425.41463 0,12.72754 -3.28355,0 0,13.1192 -2.72592,0 0,20.36413 100.42605,0 0,-20.36413 -2.72592,0 0,-13.1192 -3.34548,0 0,-12.72754 -88.34518,0 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="rect4069"
+       width="12.907247"
+       height="82.861572"
+       x="0.50460052"
+       y="333.68228"
+       ry="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="rect4071"
+       width="12.907247"
+       height="82.861572"
+       x="26.299828"
+       y="333.68228"
+       ry="0" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       ry="0"
+       y="333.68228"
+       x="51.358131"
+       height="82.861572"
+       width="12.907247"
+       id="rect4073"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/municipal.png"
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path4075"
+       d="m 20.931926,294.04535 -20.70670001,12.91831 44.39572001,0 z"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:none" />
+  </g>
+  <rect
+     inkscape:export-ydpi="90"
+     inkscape:export-xdpi="90"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/import.png"
+     style="fill:#bfd6f5;fill-opacity:1;stroke:none"
+     id="rect3885"
+     width="304"
+     height="237"
+     x="-125"
+     y="540.9245" />
+  <g
+     id="g3887"
+     transform="translate(-147.80639,530.51935)">
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect4077"
+       d="m 166.62484,44.611042 15.94883,0 1.89401,13.481281 -19.91162,0 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="rect4079"
+       d="m 138.28991,163.70298 74.24452,0 9.27351,22.55514 -94.04863,0 z"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="rect4081"
+       width="39.430431"
+       height="15.544861"
+       x="112.66003"
+       y="213.67039" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       y="130.96152"
+       x="146.47984"
+       height="8.059309"
+       width="57.054066"
+       id="rect4087"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4089"
+       d="m 130.28962,185.10516 -15.29114,27.45196 35.95937,0 c 0,0 7.60661,-27.45196 23.9206,-27.45196 z"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4091"
+       d="m 129.28141,185.42157 21.34037,27.13555"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path4093"
+       d="M 116.34276,211.96357 160.0212,185.36592"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4101"
+       d="m 140.8496,162.23473 6.83182,-22.91986 19.23456,0 -4.33848,22.91986 z"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path4133"
+       d="m 148.16692,139.8853 13.98286,22.45434"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path4135"
+       d="m 140.98179,161.60516 25.77568,-22.13957"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       sodipodi:nodetypes="ccccc"
+       inkscape:connector-curvature="0"
+       id="path4151"
+       d="m 152.54977,123.9416 c 5.40277,-19.2906 13.24737,-64.994452 13.24737,-64.994452 l 17.64499,0 c 0,0 9.9614,46.000642 14.55377,64.994452 z"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       id="rect3901"
+       width="62.303158"
+       height="8.4008713"
+       x="143.85529"
+       y="125.08737" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       y="162.72708"
+       x="131.06775"
+       height="6.3675704"
+       width="87.362122"
+       id="rect3909"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3919"
+       d="M 162.65969,185.31078 150.0649,213.35191"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:#444444;fill-opacity:1;stroke:none"
+       d="m 171.49749,28.59505 6.38913,0 0.75876,18.911105 -7.97666,0 z"
+       id="path3929"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       y="44.274055"
+       x="164.38199"
+       height="3.885777"
+       width="20.258373"
+       id="rect3935"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <rect
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       transform="scale(-1,1)"
+       y="213.67039"
+       x="-236.95276"
+       height="15.544861"
+       width="39.430431"
+       id="rect3941"
+       style="fill:#444444;fill-opacity:1;stroke:none" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 219.32315,185.10516 15.29113,27.45196 -35.95936,0 c 0,0 -7.60661,-27.45196 -23.9206,-27.45196 z"
+       id="path3943"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 220.33136,185.42157 -21.34037,27.13555"
+       id="path3945"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 233.27001,211.96357 189.59157,185.36592"
+       id="path3947"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 208.76317,162.23473 -6.83182,-22.91986 -19.23457,0 4.33849,22.91986 z"
+       id="path3949"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 201.44585,139.8853 -13.98286,22.45434"
+       id="path3951"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855047px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 208.63097,161.60516 182.8553,139.46559"
+       id="path3953"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 186.95308,185.31078 12.59479,28.04113"
+       id="path3955"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3957"
+       d="m 157.43169,99.999247 35.64534,0"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       style="fill:#fbfbfb;fill-opacity:1;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 160.8885,79.087243 27.06827,0"
+       id="path3959"
+       inkscape:connector-curvature="0" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3961"
+       d="m 158.61976,100.23689 38.73476,23.76367"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3963"
+       d="m 152.67887,123.76292 40.1605,-24.001314"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3965"
+       d="M 158.14443,99.523992 187.84915,79.800139"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3967"
+       d="M 192.60197,99.761606 161.94684,79.324884"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3969"
+       d="M 187.13614,78.611961 165.27366,59.125775"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/home/lsimons/lmctv/wordpress/import.png"
+       inkscape:connector-curvature="0"
+       id="path3971"
+       d="M 161.94684,78.136706 183.80933,58.888134"
+       style="fill:none;stroke:#444444;stroke-width:2.68855071px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+  </g>
+  <rect
+     y="847.68396"
+     x="12.178716"
+     height="165"
+     width="4"
+     id="rect3921"
+     style="fill:url(#linearGradient3933);fill-opacity:1;stroke:none"
+     inkscape:export-filename="/home/lsimons/workspace/roku_lmctv/lmctv/images/overhang_background_slice.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+</svg>

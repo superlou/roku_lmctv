@@ -53,7 +53,8 @@ Function showPosterScreen(screen As Object) As Integer
 			if msg.isScreenClosed() then
 				return -1
 			else if msg.isListItemSelected() then
-				playLiveByListIndex(msg.GetIndex())
+				print "Selected live with index"; msg.GetIndex()
+				liveVideoSpringboard(msg.GetIndex())
 			end if
 		end if
 	end while
@@ -69,19 +70,19 @@ Function getShowsForCategoryItem(cateogry As Object) As Object
 	showList = [
 		{
 			ShortDescriptionLine1: "Local",
-			ShortDescriptionLine2: "Original content created by producers and volunteers.",
+			ShortDescriptionLine2: "Original local content",
 			SDPosterUrl: "pkg:/images/local.png",
 			HDPosterUrl: "pkg:/images/local.png"
 		}
 		{
 			ShortDescriptionLine1: "Municipal",
-			ShortDescriptionLine2: "Meetings and event coverage.",
+			ShortDescriptionLine2: "Meetings and event coverage",
 			SDPosterUrl: "pkg:/images/municipal.png",
 			HDPosterUrl: "pkg:/images/municipal.png"
 		}
 		{
 			ShortDescriptionLine1: "Import",
-			ShortDescriptionLine2: "Friends of the station and other public access communities.",
+			ShortDescriptionLine2: "Friends of the station and other communities",
 			SDPosterUrl: "pkg:/images/import.png",
 			HDPosterUrl: "pkg:/images/import.png"
 		}

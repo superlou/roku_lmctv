@@ -1,22 +1,16 @@
-Function playLiveByListIndex(index) As Integer
+Function playStream(streamData) As Integer
 	port = CreateObject("roMessagePort")
 	video = CreateObject("roVideoScreen")
 	video.setMessagePort(port)
 
-	bitrates = [0]
-	urls = ["http://media.swagit.com/podcasts/2014/05/15/05152014-3340.h264.mp4"]
-	qualities = ["SD"]
-	format = "mp4"
-	title = "Test Stream"
-
 	clip = CreateObject("roAssociativeArray")
-	clip.StreamBitrates = bitrates
-	clip.StreamUrls = urls
-	clip.StreamQualities = qualities
-	clip.StreamFormat = format
-	clip.Title = title
-
+	clip.StreamBitrates = [0]
+	clip.StreamUrls = [streamData.url]
+	clip.StreamQualities = ["SD"]
+	clip.StreamFormat = "hls"
+	clip.Title = streamData.title
 	video.SetContent(clip)
+
 	video.Show()
 
 	while true

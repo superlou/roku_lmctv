@@ -16,6 +16,6 @@
 #    Set in your this variable in your shell startup (e.g. .bashrc)
 ##########################################################################  
 APPNAME = lmctv
-VERSION = 0.1
+VERSION = 1.0
 
 include ../app.mk

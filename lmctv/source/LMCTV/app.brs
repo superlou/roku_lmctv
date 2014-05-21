@@ -1,13 +1,15 @@
 Sub Main()
 	initTheme()
 
+	config = ParseJson(ReadAsciiFile("pkg:/config.json"))
+
     screen = preShowPosterScreen("", "")
     if screen = invalid then
         print "unexpected error in preShowPosterScreen"
         return
     end if
 
-    showPosterScreen(screen)
+    showPosterScreen(screen, config)
 End Sub
 
 Sub initTheme()
@@ -36,14 +38,14 @@ Function preShowPosterScreen(breadA=invalid, breadB=invalid) As Object
 		screen.SetBreadcrumbText(breadA, breadB)
 	end if
 
-	screen.SetListStyle("flat-category")
+	screen.SetListStyle("arced-portrait")
 	return screen
 End Function
 
-Function showPosterScreen(screen As Object) As Integer
+Function showPosterScreen(screen As Object, config As Object) As Integer
 	categoryList = getCategoryList()
 	screen.SetListNames(categoryList)
-	screen.SetContentList(getShowsForCategoryItem(categoryList[0]))
+	screen.SetContentList(getShowsForCategoryItem(categoryList[0], config))
 	screen.Show()
 
 	while true
@@ -54,7 +56,7 @@ Function showPosterScreen(screen As Object) As Integer
 				return -1
 			else if msg.isListItemSelected() then
 				print "Selected live with index"; msg.GetIndex()
-				liveVideoSpringboard(msg.GetIndex())
+				liveVideoSpringboard(config.live_streams[msg.GetIndex()])
 			end if
 		end if
 	end while
@@ -66,27 +68,6 @@ Function getCategoryList() As Object
 	return categoryList
 End Function
 
-Function getShowsForCategoryItem(cateogry As Object) As Object
-	showList = [
-		{
-			ShortDescriptionLine1: "Local",
-			ShortDescriptionLine2: "Original local content",
-			SDPosterUrl: "pkg:/images/local.png",
-			HDPosterUrl: "pkg:/images/local.png"
-		}
-		{
-			ShortDescriptionLine1: "Municipal",
-			ShortDescriptionLine2: "Meetings and event coverage",
-			SDPosterUrl: "pkg:/images/municipal.png",
-			HDPosterUrl: "pkg:/images/municipal.png"
-		}
-		{
-			ShortDescriptionLine1: "Import",
-			ShortDescriptionLine2: "Friends of the station and other communities",
-			SDPosterUrl: "pkg:/images/import.png",
-			HDPosterUrl: "pkg:/images/import.png"
-		}
-	]
-
-	return showList
+Function getShowsForCategoryItem(cateogry As Object, config as Object) As Object
+	return config.live_streams
 End Function

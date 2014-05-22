@@ -8,7 +8,9 @@
 	    "OverhangOffsetHD_X": "123",
 	    "OverhangOffsetHD_Y": "48",
 	    "OverhangSliceHD": "pkg:/images/overhang_hd.png",
-	    "OverhangLogoHD": "pkg:/images/logo_hd.png"
+	    "OverhangLogoHD": "pkg:/images/logo_hd.png",
+
+	    "FilterBannerActiveColor": "#658cf0"
 	},
 
 	"live_streams": [

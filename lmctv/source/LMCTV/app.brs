@@ -1,7 +1,7 @@
 Sub Main()
-	initTheme()
-
+	app = CreateObject("roAppManager")
 	config = ParseJson(ReadAsciiFile("pkg:/config.json"))
+	app.SetTheme(config.theme)
 
     screen = preShowPosterScreen("", "")
     if screen = invalid then
@@ -10,23 +10,6 @@ Sub Main()
     end if
 
     showPosterScreen(screen, config)
-End Sub
-
-Sub initTheme()
-	app = CreateObject("roAppManager")
-	theme = CreateObject("roAssociativeArray")
-
-	theme.OverhangOffsetSD_X = "72"
-    theme.OverhangOffsetSD_Y = "25"
-    theme.OverhangSliceSD = "pkg:/images/overhang_background_slice.png"
-    theme.OverhangLogoSD  = "pkg:/images/logo_sd43.png"
-
-    theme.OverhangOffsetHD_X = "123"
-    theme.OverhangOffsetHD_Y = "48"
-    theme.OverhangSliceHD = "pkg:/images/overhang_background_slice.png"
-    theme.OverhangLogoHD  = "pkg:/images/logo_hd.png"
-
-    app.SetTheme(theme)
 End Sub
 
 Function preShowPosterScreen(breadA=invalid, breadB=invalid) As Object

@@ -1,4 +1,16 @@
 {
+	"theme": {
+		"OverhangOffsetSD_X": "72",
+	    "OverhangOffsetSD_Y": "25",
+	    "OverhangSliceSD": "pkg:/images/overhang_background_slice.png",
+	    "OverhangLogoSD": "pkg:/images/logo_sd43.png",
+
+	    "OverhangOffsetHD_X": "123",
+	    "OverhangOffsetHD_Y": "48",
+	    "OverhangSliceHD": "pkg:/images/overhang_background_slice.png",
+	    "OverhangLogoHD": "pkg:/images/logo_hd.png"
+	},
+
 	"live_streams": [
 		{
 			"url": "http://oflash.dfw.swagit.com/live/lmctvny/live-b-2/playlist.m3u8",
